@@ -9,7 +9,7 @@ A ReactJs app that is able to read a list of students from a database, write, up
 
 ## Setup Prerequisite
 * Nodejs v6+
-* Backend Server Running on localhost:8080 (You could use https://github.com/DerekCL/crud_app)
+* Backend Server Running on localhost:8080 (You could use https://github.com/DerekCL/SimpleCrudApp
 
 ## Setup
 1. Fork & Clone
